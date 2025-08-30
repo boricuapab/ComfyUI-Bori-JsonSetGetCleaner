@@ -1,7 +1,7 @@
 [project]
 name = "ComfyUI-Bori-JsonSetGetCleaner"
 description = "This is a custom node for ComfyUI that takes in a file path full of json's and finds the kjnode set and get nodes and makes them hard links."
-version = "0.1.0"
+version = "0.1.1"
 license = {file = "LICENSE"}
 
 [project.urls]
